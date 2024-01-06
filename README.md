@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GVPortes (Gabriel Portes)
+- 👀 I’m interested in music, gym and studiyng
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on projects wich will help me learn
+- 📫 How to reach me: Gvportes@gmail.com
+- 🔗Linkedin: linkedin.com/in/gabriel-portes-4378112a0
