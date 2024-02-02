@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @GVPortes (Gabriel Portes)
-- 👀 I’m interested in music, gym and studiyng
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on projects wich will help me learn
+- 👽I'm 23 years old
+- 🌱 I’m currently learning JS, HTML, CSS and React
+- ☝️ I’m looking to collaborate on projects which will help me learn more
 - 📫 How to reach me: Gvportes@gmail.com
+- ⚔️DeMolay
 - 🔗Linkedin: linkedin.com/in/gabriel-portes-4378112a0
