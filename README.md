@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GVPortes (Gabriel Portes)
 - 👽I'm 23 years old
-- 🌱 I’m currently learning JS, HTML, CSS and React
+- 🌱 I’m currently studying software engineering
 - ☝️ I’m looking to collaborate on projects which will help me learn more
 - 📫 How to reach me: Gvportes@gmail.com
 - ⚔️DeMolay
