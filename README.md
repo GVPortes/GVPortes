@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software | Desenvolvedor em Formação`**
 
-Olá! Meu nome é **Gabriel Portes**, tenho 23 anos e sou natural de Santos Dumont (MG). Atualmente curso **Engenharia de Software** e me dedico diariamente à construção de soluções que unem tecnologia, aprendizado contínuo e propósito.
+Olá! Meu nome é **Gabriel Portes**, tenho 24 anos e sou natural de Santos Dumont (MG). Atualmente curso **Engenharia de Software** e me dedico diariamente à construção de soluções que unem tecnologia, aprendizado contínuo e propósito.
 
 Com experiências anteriores como operador técnico em estação de compressão de gás natural (Enerflex), professor de inglês e auxiliar administrativo, desenvolvi uma base sólida em responsabilidade, comunicação e resolução de problemas — competências que agora aplico no universo da programação.
 
