@@ -31,8 +31,8 @@ Currently working with:
 
 ### 📂 Featured Projects
 
-- 🔹 [**Personal Finance Tracker**](https://github.com/GVPortes/controle-financeiro) — Web application developed with React + Bootstrap for managing personal expenses.
-- 🔹 [**Mega-Sena Lottery Simulator**](https://github.com/GVPortes/simulador-mega-sena) — Project to practice logic by simulating random number draws and checking bet results.
+- 🔹 [**Personal Finance Tracker**](https://github.com/GVPortes/FinanceController) — Web application developed with React + TailWindsCSS for managing personal expenses.
+- 🔹 [**SIB Web application**](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd) — Web application developed on college using React + TailWindCSS for a church.
 - 🔹 [**CEP Finder**](https://github.com/GVPortes/buscador-cep) — API consumption with React to search address data by Brazilian ZIP code (CEP).
 
 ---
