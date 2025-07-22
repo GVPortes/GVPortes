@@ -40,8 +40,8 @@ Currently working with:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Gabriel Portes's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ Currently working with:
 ### 🌐 Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gvportes)
-- 📫 Email: gvportes@gmail.com
+- 📫 Email: [gvportes@gmail.com](mailto:gvportes@gmail.com)
 
 ---
 
