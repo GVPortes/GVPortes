@@ -4,7 +4,7 @@
 
 Hi! My name is **Gabriel Portes**, I’m 24 years old and I’m from Santos Dumont (MG), Brazil. I’m currently pursuing a degree in **Software Engineering** and dedicating myself daily to building solutions that combine technology, continuous learning, and purpose.
 
-With previous experiences as a technical operator at a natural gas compression station (Enerflex), software engineering intern (ArcelorMittal), English teacher, and administrative assistant, I’ve developed a solid foundation in responsibility, communication, and problem-solving — skills I now apply to the programming world.
+With previous experience as a technical operator at a natural gas compression station (Enerflex), software engineering intern (ArcelorMittal), English teacher, and administrative assistant, I’ve developed a solid foundation in responsibility, communication, and problem-solving — skills I now apply to the programming world.
 
 💡 I’m focused on becoming a well-rounded developer, fluent in modern technologies and software engineering best practices. My goal is to work in innovative companies, contributing to **impactful projects** and **collaborative teams**.
 
@@ -14,51 +14,35 @@ With previous experiences as a technical operator at a natural gas compression s
 
 Currently working with:
 
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Git" width="0px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<br/>
-<br/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" />
+</p>
 
 ---
 
 ### 📂 Featured Projects
 
-- 🔹 [**Personal Finance Tracker**](https://github.com/GVPortes/FinanceController) — Web application developed with React + TailWindsCSS for managing personal expenses.
-- 🔹 [**SIB Web application**](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd) — Web application developed on college using React + TailWindCSS for a church.
-- 🔹 [**CEP Finder**](https://github.com/GVPortes/buscador-cep) — API consumption with React to search address data by Brazilian ZIP code (CEP).
+- 🔹 [**Finance Controller**](https://github.com/GVPortes/FinanceController) — Web app built with React + Bootstrap to manage personal finances.
+- 🔹 [**SIB Web Application**](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd) — College project for a church website, built with React and TailwindCSS.
+- 🔹 [**CEP Finder**](https://github.com/GVPortes/buscador-cep) — React app that consumes a public API to find address data by Brazilian ZIP code (CEP).
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" />
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br clear="both"/>
 
 ---
 
@@ -70,18 +54,10 @@ Currently working with:
 ---
 
 <p align="left">
-    <a href="https://github.com/GVPortes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GVPortes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/GVPortes?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GVPortes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/GVPortes?tab=repositories&sort=stargazers">
+    <img alt="Total Stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/GVPortes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
+  </a>
+  <a href="https://github.com/GVPortes?tab=followers">
+    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/GVPortes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
+  </a>
 </p>
