@@ -39,27 +39,20 @@ Currently working with:
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800"
   />
-
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&exclude_repo=buscador-cep,desafios-logica,sib-frontend"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GVPortes&theme=tokyonight&hide_border=false"
   />
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br clear="both"/>
-
 ---
 
 ### 🌐 Let’s Connect!
