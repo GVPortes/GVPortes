@@ -44,7 +44,8 @@ Currently working with:
 
 ### 📂 Featured Projects
 
-- 🔹 [**Faltômetro**](https://www.faltometro.com) — **Mobile application** built with **ReactJS**, designed to help **university students** monitor and manage their absences across enrolled subjects.  
+- 🔹 [**Faltômetro**](https://www.faltometro.com) — **Mobile application** built with **ReactJS**, designed to help **university students** monitor and manage their absences across enrolled subjects.
+- 🔹 [**Avuei**](https://avuei.com) — **Web platform** focused on the **management of retail businesses**, providing tools for organization, control, and performance analysis.   
 - 🔹 [**SIB Web Application**](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd) — Web application developed in college using **React + TailwindCSS** for a church management system.  
 - 🔹 [**Finance Controller**](https://github.com/GVPortes/FinanceController) — Web application developed with **React + TailwindCSS** for managing personal expenses.  
 - 🔹 [**CEP Finder**](https://github.com/GVPortes/buscador-cep) — React app that consumes a public API to search address data by Brazilian ZIP code (CEP).
