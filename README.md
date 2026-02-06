@@ -18,7 +18,7 @@ With previous experiences as a **Software Engineer Trainee at Levty Systems**, *
 - 🏭 **Software Engineering Intern — ArcelorMittal (2024)**  
   Supported automation and internal systems projects, enhancing process efficiency and digital transformation.
 
-- 🚘 **Intern — Mercedes-Benz (2024)**  
+- 🚘 **Software Engineering  Intern — Mercedes-Benz (2024)**  
   Experience in a global industrial environment, contributing to operational support and process optimization.
 
 ---
