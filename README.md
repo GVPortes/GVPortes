@@ -4,7 +4,7 @@
 
 Hi, I’m **Gabriel Portes**, a Software Engineering student focused on backend development and building scalable systems.
 
-I currently work as a **Software Engineer Trainee at Levty Systems**, contributing to real-world applications and business solutions. My experience includes working with Java, JavaScript, and Python, developing systems that prioritize performance, clean architecture, and practical problem-solving.
+I currently work as a **Software Engineer Trainee at Levty Systemas**, contributing to real-world applications and business solutions. My experience includes working with Java, JavaScript, and Python, developing systems that prioritize performance, clean architecture, and practical problem-solving.
 
 I’m continuously improving my technical skills by building projects that simulate real-world scenarios, especially focused on APIs, business rules, and system design.
 
