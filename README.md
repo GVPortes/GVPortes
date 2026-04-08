@@ -1,54 +1,82 @@
 # 👨🏻‍💻 Gabriel Portes
 
-**`Software Engineering Student | Developer in Progress`**
+**Software Engineering Student | Backend Developer (Java & APIs)**
 
-Hi! My name is **Gabriel Portes**, I’m 24 years old and I’m from Santos Dumont (MG), Brazil. I’m currently pursuing a degree in **Software Engineering** in Juiz de Fora and dedicating myself daily to building solutions that combine technology, continuous learning, and purpose.
+Hi, I’m **Gabriel Portes**, a Software Engineering student focused on backend development and building scalable systems.
 
-With previous experiences as a **Software Engineer Trainee at Levty Systems**, **Software Engineering Intern at ArcelorMittal**, **Intern at Mercedes-Benz**, and earlier roles as an English teacher, administrative assistant, and technical operator at a natural gas compression station (Enerflex), I’ve developed a solid foundation in responsibility, communication, and problem-solving — skills I now apply to the programming world.
+I currently work as a **Software Engineer Trainee at Levty Systems**, contributing to real-world applications and business solutions. My experience includes working with Java, JavaScript, and Python, developing systems that prioritize performance, clean architecture, and practical problem-solving.
 
-💡 I’m focused on becoming a well-rounded developer, fluent in modern technologies and software engineering best practices. My goal is to work in innovative companies, contributing to **impactful projects** and **collaborative teams**.
+I’m continuously improving my technical skills by building projects that simulate real-world scenarios, especially focused on APIs, business rules, and system design.
 
 ---
 
 ### 💼 Professional Experience
 
-- 🧠 **Software Engineer Trainee — Levty Systemas (2025–Present)**  
-  Developing and improving internal and external systems, focusing on scalability, usability, and modern software practices.
+- 🧠 **Software Engineer Trainee — Levty Systems (2025–Present)**  
+  Developing and maintaining internal and external systems, focusing on scalability, performance, and clean code practices.
 
 - 🏭 **Software Engineering Intern — ArcelorMittal (2024)**  
-  Supported automation and internal systems projects, enhancing process efficiency and digital transformation.
+  Supported automation and internal systems, contributing to process optimization and digital transformation initiatives.
 
-- 🚘 **Software Engineering  Intern — Mercedes-Benz (2024)**  
-  Experience in a global industrial environment, contributing to operational support and process optimization.
+- 🚘 **Software Engineering Intern — Mercedes-Benz (2024)**  
+  Experience in a global industrial environment, assisting in operational support and process improvement.
+
+---
+
+### 🚀 Current Focus
+
+- Building REST APIs using **Java (Spring Boot)**
+- Applying **Object-Oriented Programming (OOP)** and clean architecture
+- Improving **problem-solving and system design skills**
+- Developing real-world backend projects
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-Currently working with:
+**Main Stack:**
+- Java (OOP, APIs)
+- JavaScript (React)
+- Python
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Git" width="0px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+**Frontend:**
+- React, TailwindCSS, Bootstrap
 
-<br/>
-<br/>
+**Other Tools:**
+- Git, REST APIs, HTTP, JSON
 
 ---
 
 ### 📂 Featured Projects
 
-- 🔹 [**Faltômetro**](https://www.faltometro.com) — **Mobile application** built with **ReactJS**, designed to help **university students** monitor and manage their absences across enrolled subjects. Check the link to see it in Prod.
-- 🔹 [**Avuei**](https://avuei.com) — **Web platform** focused on the **management of retail businesses**, providing tools for organization, control, and performance analysis.   
-- 🔹 [**SIB Web Application**](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd) — Web application developed in college using **React + TailwindCSS** for a church management system.  
-- 🔹 [**Finance Controller**](https://github.com/GVPortes/FinanceController) — Web application developed with **React + TailwindCSS** for managing personal expenses.  
-- 🔹 [**CEP Finder**](https://github.com/GVPortes/buscador-cep) — React app that consumes a public API to search address data by Brazilian ZIP code (CEP).
+- 🔹 **Faltômetro** — Mobile application for university students to track absences in real time  
+  → ~450 active users  
+  → 100% organic user acquisition (QR code distribution inside university)  
+  → Solves a real problem of absence tracking for students  
+  → Built with ReactJS  
+  → Focused on usability and fast data input  
+  → Currently in production  
+  🔗 https://www.faltometro.com
+  
+- 🔹 **Avuei** — Web platform for retail business management  
+  → Focused on operational control, sales, and data organization  
+  → Designed for scalability and real-world usage  
+  🔗 https://avuei.com  
+
+- 🔹 **SIB Web Application** — Church management system  
+  → Built with React + TailwindCSS  
+  → Focused on UI organization and component structure  
+  🔗 https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd  
+
+- 🔹 **Finance Controller** — Personal finance management system  
+  → Built with React + TailwindCSS  
+  → Focused on tracking expenses and user experience  
+  🔗 https://github.com/GVPortes/FinanceController  
+
+- 🔹 **CEP Finder** — Address search using Brazilian ZIP code (CEP)  
+  → Consumes public API  
+  → Built with React  
+  🔗 https://github.com/GVPortes/buscador-cep  
 
 ---
 
@@ -71,10 +99,10 @@ Currently working with:
 
 ---
 
-### 🌐 Let’s Connect!
+### 🌐 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gvportes)
-- 📫 Email: gvportes@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gvportes  
+- 📫 Email: gvportes@gmail.com  
 
 ---
 
