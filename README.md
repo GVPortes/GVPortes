@@ -1,124 +1,248 @@
 # 👨🏻‍💻 Gabriel Portes
 
-**Software Engineering Student | Backend Developer (Java & APIs)**
+### Software Engineer · Backend Developer
 
-Hi, I’m **Gabriel Portes**, a Software Engineering student focused on backend development and building scalable systems.
+**Node.js · TypeScript · Java · Spring Boot · React**
 
-I currently work as a **Software Engineer Trainee at Levty Systemas**, contributing to real-world applications and business solutions. My experience includes working with Java, JavaScript, and Python, developing systems that prioritize performance, clean architecture, and practical problem-solving.
+Software Engineering student focused on **backend development, APIs, software architecture and real-world systems**.
 
-I’m continuously improving my technical skills by building projects that simulate real-world scenarios, especially focused on APIs, business rules, and system design.
+Currently working as a **Software Engineer Trainee at Levty Systems**, developing business applications and contributing to software solutions used in real-world environments.
 
----
+My primary stack is **JavaScript/TypeScript with Node.js**. I'm also expanding my backend expertise with **Java and Spring Boot**, while continuously improving my knowledge of databases, system design and software architecture.
 
-### 💼 Professional Experience
-
-- 🧠 **Software Engineer Trainee — Levty Systems (2025–Present)**  
-  Developing and maintaining internal and external systems, focusing on scalability, performance, and clean code practices.
-
-- 🏭 **Software Engineering Intern — ArcelorMittal (2024)**  
-  Supported automation and internal systems, contributing to process optimization and digital transformation initiatives.
-
-- 🚘 **Software Engineering Intern — Mercedes-Benz (2024)**  
-  Experience in a global industrial environment, assisting in operational support and process improvement.
+```text
+Building software that solves real problems.
+Learning by building.
+Engineering with purpose.
+```
 
 ---
 
-### 🚀 Current Focus
+## 🧑🏻‍💻 About Me
 
-- Building REST APIs using **Java (Spring Boot)**
-- Applying **Object-Oriented Programming (OOP)** and clean architecture
-- Improving **problem-solving and system design skills**
-- Developing real-world backend projects
-
----
-
-### 🛠️ Technologies & Tools
-
-**Main Stack:**
-- Java (OOP, APIs)
-- JavaScript (React)
-- Python
-
-**Frontend:**
-- React, TailwindCSS, Bootstrap
-
-**Other Tools:**
-- Git, REST APIs, HTTP, JSON
+* 🎓 Software Engineering student
+* 💼 Software Engineer Trainee at **Levty Systems**
+* 🟢 Primary backend stack: **Node.js + TypeScript**
+* ☕ Expanding into **Java + Spring Boot**
+* 🏗️ Interested in **Software Architecture & System Design**
+* 🗄️ Experience with **SQL & NoSQL databases**
+* 🚀 Building and maintaining projects with real-world use cases
+* 🌎 Based in Brazil
 
 ---
 
-### 📂 Featured Projects
+## ⚡ Tech Stack
 
-- 🔹 **Faltômetro** — Mobile application for university students to track absences in real time  
-  → ~450 active users  
-  → 100% organic user acquisition (QR code distribution inside university)  
-  → Solves a real problem of absence tracking for students  
-  → Built with ReactJS  
-  → Focused on usability and fast data input  
-  → Currently in production  
-  🔗 https://www.faltometro.com
-  
-- 🔹 **Avuei** — Web platform for retail business management  
-  → Focused on operational control, sales, and data organization  
-  → Designed for scalability and real-world usage  
-  🔗 https://avuei.com  
+### Backend
 
-- 🔹 **SIB Web Application** — Church management system  
-  → Built with React + TailwindCSS  
-  → Focused on UI organization and component structure  
-  🔗 https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,java,spring,python" />
+</p>
 
-- 🔹 **Finance Controller** — Personal finance management system  
-  → Built with React + TailwindCSS  
-  → Focused on tracking expenses and user experience  
-  🔗 https://github.com/GVPortes/FinanceController  
+### Frontend
 
-- 🔹 **CEP Finder** — Address search using Brazilian ZIP code (CEP)  
-  → Consumes public API  
-  → Built with React  
-  🔗 https://github.com/GVPortes/buscador-cep  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 What I'm Currently Building
+
+### Node.js Backend Project
+
+A backend application designed to simulate a **real-world production environment**, focusing on architecture rather than simply implementing CRUD operations.
+
+**Stack**
+
+`Node.js` · `TypeScript` · `MongoDB` · `Prisma`
+
+**Concepts**
+
+`REST API` · `Business Rules` · `Authentication` · `Architecture` · `Testing` · `Docker`
+
+> 🚧 Currently in development
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Faltômetro
+
+**University attendance tracking platform**
+
+A production application created to solve a common problem among university students: monitoring absences and remaining attendance limits.
+
+**Impact**
+
+* 👥 ~450 active users
+* 📈 100% organic acquisition
+* 🎓 Real-world university use case
+* 🚀 Currently in production
+
+**Technology**
+
+`ReactJS`
+
+🔗 [faltometro.com](https://www.faltometro.com)
+
+---
+
+### 🏪 Avuei
+
+**Retail management platform**
+
+A business management platform designed to help retail companies organize operations, sales and business data.
+
+**Focus**
+
+* 📊 Sales and operational management
+* 🧩 Business rules
+* 🗄️ Data organization
+* 📈 Scalability
+* 🏢 Real-world business requirements
+
+🔗 [avuei.com](https://avuei.com)
+
+---
+
+### ☕ Java Spring Boot API
+
+**Enterprise-oriented backend project**
+
+A backend application created to explore **Java and Spring Boot** in a realistic software architecture.
+
+**Focus**
+
+`Java` · `Spring Boot` · `REST API` · `OOP` · `SOLID` · `Testing` · `Database`
+
+> 🚧 Currently in development
+
+---
+
+### ⛪ SIB Web Application
+
+**Church management system**
+
+Web application focused on organizing information and processes for a church environment.
+
+**Technology**
+
+`React` · `TailwindCSS`
+
+🔗 [GitHub Repository](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd)
+
+---
+
+### 💰 Finance Controller
+
+**Personal finance management application**
+
+Application designed to help users organize expenses and monitor their personal finances.
+
+**Technology**
+
+`React` · `TailwindCSS`
+
+🔗 [GitHub Repository](https://github.com/GVPortes/FinanceController)
+
+---
+
+### 📍 CEP Finder
+
+**Brazilian address lookup**
+
+React application consuming a public API to retrieve address information from Brazilian ZIP codes.
+
+**Technology**
+
+`React` · `REST API`
+
+🔗 [GitHub Repository](https://github.com/GVPortes/buscador-cep)
+
+---
+
+## 💼 Professional Experience
+
+### Levty Systems
+
+**Software Engineer Trainee · 2025 – Present**
+
+Working on real-world business applications and software solutions.
+
+* Backend development and API integration
+* JavaScript / Node.js development
+* MongoDB and Elasticsearch
+* Business rules and application logic
+* Agile development
+* Public-sector software solutions
+
+### ArcelorMittal
+
+**Software Engineering Intern · 2024 – 2025**
+
+* Internal systems
+* Process automation
+* Digital transformation
+* Software solutions in an industrial environment
+
+### Mercedes-Benz
+
+**Software Engineering Intern · 2024**
+
+* Operational support
+* Process improvement
+* Internal systems and solutions
+* Experience within a global industrial environment
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&exclude_repo=buscador-cep,desafios-logica,sib-frontend"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight&exclude_repo=buscador-cep,desafios-logica,sib-frontend"
   />
+</p>
+
+<p align="center">
   <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GVPortes&theme=tokyonight&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GVPortes&theme=tokyonight&hide_border=true"
   />
 </p>
 
 ---
 
-### 🌐 Let’s Connect
+## 🌐 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/gvportes  
-- 📫 Email: gvportes@gmail.com  
+<p align="left">
+  <a href="https://www.linkedin.com/in/gvportes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gvportes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="left">
-    <a href="https://github.com/GVPortes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GVPortes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/GVPortes?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GVPortes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <i>"Building software that solves real problems."</i>
 </p>
