@@ -10,11 +10,7 @@ Currently working as a **Software Engineer Trainee at Levty Systems**, developin
 
 My primary stack is **JavaScript/TypeScript with Node.js**. I'm also expanding my backend expertise with **Java and Spring Boot**, while continuously improving my knowledge of databases, system design and software architecture.
 
-```text
-Building software that solves real problems.
-Learning by building.
-Engineering with purpose.
-```
+I enjoy building software that goes beyond tutorials — projects with real users, business requirements, and production-oriented architecture.
 
 ---
 
@@ -26,6 +22,7 @@ Engineering with purpose.
 * ☕ Expanding into **Java + Spring Boot**
 * 🏗️ Interested in **Software Architecture & System Design**
 * 🗄️ Experience with **SQL & NoSQL databases**
+* 🐍 Experience with **Python for data analysis and automation**
 * 🚀 Building and maintaining projects with real-world use cases
 * 🌎 Based in Brazil
 
@@ -43,6 +40,17 @@ Engineering with purpose.
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+### 🐍 Python & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Databases & Infrastructure
@@ -78,6 +86,32 @@ A backend application designed to simulate a **real-world production environment
 ---
 
 ## 📂 Featured Projects
+
+### ⚙️ Node.js Backend Project
+
+**Production-oriented REST API**
+
+A backend application focused on building a structured and maintainable API using **Node.js, TypeScript, MongoDB and Prisma**.
+
+The project explores real-world backend development practices, including API architecture, database modeling, business rules and maintainability.
+
+**Stack**
+
+`Node.js` · `TypeScript` · `MongoDB` · `Prisma`
+
+**Focus**
+
+* 🔌 REST API architecture
+* 🧩 Business rules and service layer
+* 🗄️ Database modeling
+* 🔐 Authentication and authorization
+* 🧪 Automated testing
+* 📖 API documentation
+* 🐳 Docker
+
+> 🚧 Currently in development
+
+---
 
 ### 📊 Faltômetro
 
