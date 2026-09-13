@@ -209,19 +209,19 @@ My primary backend stack is **Node.js with TypeScript and JavaScript**, with exp
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=GVPortes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
     alt="Gabriel Portes GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight&exclude_repo=buscador-cep,desafios-logica,sib-frontend"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight&exclude_repo=buscador-cep,desafios-logica,sib-frontend"
     alt="Most Used Languages"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GVPortes&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=GVPortes&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
