@@ -1,282 +1,253 @@
-# 👨🏻‍💻 Gabriel Portes
+<div align="center">
+  <h1>👨🏻‍💻 Gabriel Portes</h1>
 
-### Software Engineer · Backend Developer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+Trainee;Backend+Developer+%7C+Node.js+%C2%B7+TypeScript+%C2%B7+Java;Building+scalable+APIs+%26+real-world+systems;Passionate+about+Architecture+%26+System+Design" alt="Gabriel Portes - Typing SVG" />
+  </a>
 
-**Node.js · TypeScript · Java · Spring Boot · React**
-
-Software Engineering student focused on **backend development, APIs, software architecture and real-world systems**.
-
-Currently working as a **Software Engineer Trainee at Levty Systems**, developing business applications and contributing to software solutions used in real-world environments.
-
-My primary stack is **JavaScript/TypeScript with Node.js**. I'm also expanding my backend expertise with **Java and Spring Boot**, while continuously improving my knowledge of databases, system design and software architecture.
-
-I enjoy building software that goes beyond tutorials — projects with real users, business requirements, and production-oriented architecture.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gvportes">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:gvportes@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.faltometro.com">
+      <img src="https://img.shields.io/badge/Live_Product-Falt%C3%B4metro-0284c7?style=for-the-badge&logo=react&logoColor=white" alt="Faltômetro" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Brazil-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
+</div>
 
 ---
 
-## 🧑🏻‍💻 About Me
+### 🚀 Overview
 
-* 🎓 Software Engineering student
-* 💼 Software Engineer Trainee at **Levty Systems**
-* 🟢 Primary backend stack: **Node.js + TypeScript**
-* ☕ Expanding into **Java + Spring Boot**
-* 🏗️ Interested in **Software Architecture & System Design**
-* 🗄️ Experience with **SQL & NoSQL databases**
-* 🐍 Experience with **Python for data analysis and automation**
-* 🚀 Building and maintaining projects with real-world use cases
-* 🌎 Based in Brazil
+Software Engineering student specializing in **backend engineering, RESTful APIs, and distributed software architecture**. 
+
+Currently working as a **Software Engineer Trainee**, designing and developing high-reliability business applications, backend services, and database integrations used in real-world enterprise and public-sector environments.
+
+My primary backend stack is **Node.js with TypeScript and JavaScript**, with expanding expertise in **Java & Spring Boot**. I also build full-stack and mobile solutions using **React and React Native**, always prioritizing maintainability, clean code principles, and real-world user impact.
+
+---
+
+## 🧑🏻‍💻 Highlights & Background
+
+* 🎓 **Software Engineering student** focused on backend systems, system design, and databases
+* 💼 **Software Engineer Trainee** (Business applications, Node.js, MongoDB, Elasticsearch)
+* 🏭 **Previous industrial engineering internships** at **ArcelorMittal** and **Mercedes-Benz**
+* 🟢 **Core Stack:** Node.js · TypeScript · Java · Spring Boot · PostgreSQL · MongoDB · Docker
+* 📱 **Mobile & Web:** React · React Native · Expo · styled-components · TailwindCSS
+* 📈 **Track record of building real products** with active users, organic growth, and production requirements
 
 ---
 
 ## ⚡ Tech Stack
 
-### Backend
+<div align="center">
 
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python" alt="Languages" />
 </p>
 
-### Frontend
-
+### Backend & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,prisma" alt="Backend" />
 </p>
 
-### 🐍 Python & Data
-
+### Frontend & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=react,react,vite,tailwind,styledcomponents" alt="Frontend and Mobile" />
 </p>
 
+### Databases & Cloud / DevOps
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker" alt="Databases and DevOps" />
 </p>
 
-### Databases & Infrastructure
-
+### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" alt="Tools" />
 </p>
 
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
-</p>
-
----
-
-## 🚀 What I'm Currently Building
-
-### Node.js Backend Project
-
-A backend application designed to simulate a **real-world production environment**, focusing on architecture rather than simply implementing CRUD operations.
-
-**Stack**
-
-`Node.js` · `TypeScript` · `MongoDB` · `Prisma`
-
-**Concepts**
-
-`REST API` · `Business Rules` · `Authentication` · `Architecture` · `Testing` · `Docker`
-
-> 🚧 Currently in development
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-### ⚙️ Node.js Backend Project
+### 🌟 Products in Production
 
-**Production-oriented REST API**
+#### 📊 [Faltômetro](https://www.faltometro.com) — University Attendance Tracker
+> **Production Web Application** · Solves absence management for university students with real-time limit calculations and class scheduling.
 
-A backend application focused on building a structured and maintainable API using **Node.js, TypeScript, MongoDB and Prisma**.
-
-The project explores real-world backend development practices, including API architecture, database modeling, business rules and maintainability.
-
-**Stack**
-
-`Node.js` · `TypeScript` · `MongoDB` · `Prisma`
-
-**Focus**
-
-* 🔌 REST API architecture
-* 🧩 Business rules and service layer
-* 🗄️ Database modeling
-* 🔐 Authentication and authorization
-* 🧪 Automated testing
-* 📖 API documentation
-* 🐳 Docker
-
-> 🚧 Currently in development
+* 👥 **~450 active users** with **100% organic growth**
+* 🎓 Proven product-market fit solving real university retention challenges
+* ⚡ Fast, responsive UI with state persistence and modern architecture
+* 🔗 **Live URL:** [faltometro.com](https://www.faltometro.com)
+* `React` · `JavaScript` · `UX/UI Design` · `Vercel`
 
 ---
 
-### 📊 Faltômetro
+#### 🏪 [Avuei](https://avuei.com) — Retail Operations & Management Platform
+> **B2B Retail Management System** · Streamlines sales tracking, operational metrics, and business data organization for retail businesses.
 
-**University attendance tracking platform**
-
-A production application created to solve a common problem among university students: monitoring absences and remaining attendance limits.
-
-**Impact**
-
-* 👥 ~450 active users
-* 📈 100% organic acquisition
-* 🎓 Real-world university use case
-* 🚀 Currently in production
-
-**Technology**
-
-`ReactJS`
-
-🔗 [faltometro.com](https://www.faltometro.com)
+* 🏢 Tailored for real-world enterprise requirements and operational flows
+* 📊 Centralized sales monitoring and data categorization
+* 🧩 Scalable architecture designed for business data expansion
+* 🔗 **Live URL:** [avuei.com](https://avuei.com)
+* `Web Platform` · `Business Logic` · `Operations Management`
 
 ---
 
-### 🏪 Avuei
+### ⚙️ Backend & API Architecture
 
-**Retail management platform**
+#### 🚀 [API de Cadastro de Usuários](https://github.com/GVPortes/API-Cadastro-de-Usu-rios-NODE) — RESTful User Management API
+> **Robust Node.js REST API** · Complete user lifecycle management with strict input validation, uniqueness constraints, and structured error responses.
 
-A business management platform designed to help retail companies organize operations, sales and business data.
-
-**Focus**
-
-* 📊 Sales and operational management
-* 🧩 Business rules
-* 🗄️ Data organization
-* 📈 Scalability
-* 🏢 Real-world business requirements
-
-🔗 [avuei.com](https://avuei.com)
+* 🔌 **Full CRUD implementation:** List, Retrieve by ID, Register, Update, and Delete
+* 🛡️ **Comprehensive validation:** Email format checking, duplicate email prevention (`409 Conflict`), and ID route verification (`400 Bad Request`)
+* 📦 Built with modern ES Modules syntax (`"type": "module"`) and clean route modularity
+* 🔗 **Repository:** [GVPortes/API-Cadastro-de-Usu-rios-NODE](https://github.com/GVPortes/API-Cadastro-de-Usu-rios-NODE)
+* `Node.js` · `Express` · `REST API` · `ES Modules` · `cURL Ready`
 
 ---
 
-### ☕ Java Spring Boot API
+#### ☕ Java Spring Boot API — Enterprise Layered Service
+> **Enterprise Backend Project** · Exploring enterprise software architecture, object-oriented design, and design patterns using Java and Spring Boot.
 
-**Enterprise-oriented backend project**
-
-A backend application created to explore **Java and Spring Boot** in a realistic software architecture.
-
-**Focus**
-
-`Java` · `Spring Boot` · `REST API` · `OOP` · `SOLID` · `Testing` · `Database`
-
-> 🚧 Currently in development
+* 🧱 Strict adherence to **SOLID principles** and layered architecture (Controller, Service, Repository, DTO)
+* 🗄️ Relational database integration with JPA/Hibernate
+* 🧪 Unit testing and automated API verification
+* 🚧 *Active Development*
+* `Java` · `Spring Boot` · `REST API` · `SOLID` · `OOP` · `PostgreSQL`
 
 ---
 
-### ⛪ SIB Web Application
+#### 🐳 Production-Oriented Node.js Core Backend
+> **Architecture-Driven REST API** · Simulating production constraints with focus on software architecture beyond simple CRUD tutorials.
 
-**Church management system**
-
-Web application focused on organizing information and processes for a church environment.
-
-**Technology**
-
-`React` · `TailwindCSS`
-
-🔗 [GitHub Repository](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd)
+* 🧩 Business rules isolation, service layer decoupling, and domain modeling
+* 🔐 Authentication, authorization, and secure endpoints
+* 🗄️ Schema modeling with Prisma ORM and MongoDB
+* 🐳 Dockerized setup for consistent local development and deployment
+* 🚧 *Active Development*
+* `Node.js` · `TypeScript` · `MongoDB` · `Prisma` · `Docker`
 
 ---
 
-### 💰 Finance Controller
+### 📱 Mobile & Web Applications
 
-**Personal finance management application**
+#### 📱 [Calculadora de IMC Mobile](https://github.com/GVPortes/Mobile-IMC-Calculator-App) — React Native & Expo
+> **Modern Mobile Application** · Intuitive Body Mass Index calculator with WHO guidelines, custom 60 FPS animations, and dynamic theme switching.
 
-Application designed to help users organize expenses and monitor their personal finances.
-
-**Technology**
-
-`React` · `TailwindCSS`
-
-🔗 [GitHub Repository](https://github.com/GVPortes/FinanceController)
+* 🎨 **Dark / Light Mode** with automatic OS detection (`useColorScheme`) and centralized `ThemeProvider`
+* 📏 **Interactive `ImcMeter`:** Segmented visual scale with smooth spring pointer animations (`Animated.spring` at 60 FPS)
+* 📳 **Refined UX:** Smart height/weight parsing (cm/m, comma/period), inline validation, and tactile haptic vibration feedback
+* 💅 Decoupled styles with **styled-components** and modular component hierarchy
+* 🔗 **Repository:** [GVPortes/Mobile-IMC-Calculator-App](https://github.com/GVPortes/Mobile-IMC-Calculator-App)
+* `React Native` · `Expo` · `styled-components` · `Animated API` · `React Hooks`
 
 ---
 
-### 📍 CEP Finder
+#### 💰 [Finance Controller](https://github.com/GVPortes/FinanceController) — Personal Finance Manager
+> **Personal Budget Tracker** · Helps users organize expenses, track revenues, and maintain financial clarity through an interactive interface.
 
-**Brazilian address lookup**
+* 🔗 **Repository:** [GVPortes/FinanceController](https://github.com/GVPortes/FinanceController)
+* `React` · `TailwindCSS` · `JavaScript`
 
-React application consuming a public API to retrieve address information from Brazilian ZIP codes.
+---
 
-**Technology**
+#### ⛪ [SIB Web Application](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd) — Church Management System
+> **Community Management Platform** · Web application focused on organizing information, events, and community processes.
 
-`React` · `REST API`
+* 🔗 **Repository:** [Pedro-Henrique-Teles/SIB-FrontEnd](https://github.com/Pedro-Henrique-Teles/SIB-FrontEnd)
+* `React` · `TailwindCSS` · `Frontend Architecture`
 
-🔗 [GitHub Repository](https://github.com/GVPortes/buscador-cep)
+---
+
+#### 📍 [CEP Finder](https://github.com/GVPortes/buscador-cep) — Brazilian Address Lookup
+> **Address Query Tool** · Fast address retrieval consuming Brazilian postal code public REST APIs.
+
+* 🔗 **Repository:** [GVPortes/buscador-cep](https://github.com/GVPortes/buscador-cep)
+* `React` · `REST API` · `Integration`
 
 ---
 
 ## 💼 Professional Experience
 
-### Levty Systems
+```
+2025 - Present   Software Engineer Trainee Intern at Levty Systems
+2024 - 2025      Software Engineering Intern at ArcelorMittal
+2024 - 2024      Software Engineering Intern at Mercedes-Benz
+```
 
-**Software Engineer Trainee · 2025 – Present**
+### 🔹 Software Engineer Trainee · **Levty Systems**
+*2025 – Present · Belo Horizonte, Brazil*
+* Developing real-world business applications and backend services for public and private sectors
+* Building and integrating APIs using **JavaScript / Node.js**
+* Working with distributed databases including **MongoDB** and **Elasticsearch**
+* Implementing core business rules, service validation, and data pipelines
+* Collaborating in an Agile / Scrum engineering workflow
 
-Working on real-world business applications and software solutions.
+### 🔹 Software Engineering Intern · **ArcelorMittal**
+*2024 – 2025*
+* Contributed to internal systems and process automation initiatives in a global industrial enterprise
+* Supported digital transformation workflows and cross-department software integrations
+* Maintained database routines and automated administrative data operations
 
-* Backend development and API integration
-* JavaScript / Node.js development
-* MongoDB and Elasticsearch
-* Business rules and application logic
-* Agile development
-* Public-sector software solutions
-
-### ArcelorMittal
-
-**Software Engineering Intern · 2024 – 2025**
-
-* Internal systems
-* Process automation
-* Digital transformation
-* Software solutions in an industrial environment
-
-### Mercedes-Benz
-
-**Software Engineering Intern · 2024**
-
-* Operational support
-* Process improvement
-* Internal systems and solutions
-* Experience within a global industrial environment
+### 🔹 Software Engineering Intern · **Mercedes-Benz**
+*2024*
+* Supported operational solutions and internal systems in an international manufacturing environment
+* Focused on process improvements, reliability, and automated system feedback
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity & Stats
 
-<p align="center">
+<div align="center">
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=GVPortes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="Gabriel Portes GitHub Stats"
   />
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPortes&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight&exclude_repo=buscador-cep,desafios-logica,sib-frontend"
+    alt="Most Used Languages"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=GVPortes&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
-</p>
+</div>
 
 ---
 
 ## 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gvportes">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gvportes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <p>I'm always open to discussing backend architecture, new projects, or software engineering opportunities.</p>
 
----
+  <a href="https://www.linkedin.com/in/gvportes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:gvportes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GVPortes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
 
 <p align="center">
-  <i>"Building software that solves real problems."</i>
+  <i>"Building reliable software that solves real problems."</i>
 </p>
