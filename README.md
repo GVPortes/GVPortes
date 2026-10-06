@@ -15,6 +15,7 @@
     <a href="https://www.faltometro.com">
       <img src="https://img.shields.io/badge/Live_Product-Falt%C3%B4metro-0284c7?style=for-the-badge&logo=react&logoColor=white" alt="Faltômetro" />
     </a>
+    <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />
     <img src="https://img.shields.io/badge/Location-Brazil-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 </div>
@@ -27,7 +28,7 @@ Software Engineering student specializing in **backend engineering, RESTful APIs
 
 Currently working as a **Software Engineer Trainee**, designing and developing high-reliability business applications, backend services, and database integrations used in real-world enterprise and public-sector environments.
 
-My primary backend stack is **Node.js with TypeScript and JavaScript**, with expanding expertise in **Java & Spring Boot**. I also build full-stack and mobile solutions using **React and React Native**, always prioritizing maintainability, clean code principles, and real-world user impact.
+My primary backend stack is **Node.js with TypeScript and JavaScript**, with expanding expertise in **Java & Spring Boot** and cloud deployment on **AWS (EC2)**. I also build full-stack and mobile solutions using **React and React Native**, always prioritizing maintainability, clean code principles, and real-world user impact.
 
 ---
 
@@ -36,7 +37,7 @@ My primary backend stack is **Node.js with TypeScript and JavaScript**, with exp
 * 🎓 **Software Engineering student** focused on backend systems, system design, and databases
 * 💼 **Software Engineer Trainee** (Business applications, Node.js, MongoDB, Elasticsearch)
 * 🏭 **Previous industrial engineering internships** at **ArcelorMittal** and **Mercedes-Benz**
-* 🟢 **Core Stack:** Node.js · TypeScript · Java · Spring Boot · PostgreSQL · MongoDB · Docker
+* 🟢 **Core Stack:** Node.js · TypeScript · Java · Spring Boot · PostgreSQL · MongoDB · Docker · AWS (EC2)
 * 📱 **Mobile & Web:** React · React Native · Expo · styled-components · TailwindCSS
 * 📈 **Track record of building real products** with active users, organic growth, and production requirements
 
@@ -63,7 +64,7 @@ My primary backend stack is **Node.js with TypeScript and JavaScript**, with exp
 
 ### Databases & Cloud / DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker" alt="Databases and DevOps" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,nginx" alt="Databases and DevOps" />
 </p>
 
 ### Tools & Workflow
@@ -132,8 +133,9 @@ My primary backend stack is **Node.js with TypeScript and JavaScript**, with exp
 * 🔐 Authentication, authorization, and secure endpoints
 * 🗄️ Schema modeling with Prisma ORM and MongoDB
 * 🐳 Dockerized setup for consistent local development and deployment
+* ☁️ Deployed on **AWS EC2** with containerized workloads
 * 🚧 *Active Development*
-* `Node.js` · `TypeScript` · `MongoDB` · `Prisma` · `Docker`
+* `Node.js` · `TypeScript` · `MongoDB` · `Prisma` · `Docker` · `AWS EC2`
 
 ---
 
