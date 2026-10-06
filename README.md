@@ -96,7 +96,7 @@ My primary backend stack is **Node.js with TypeScript and JavaScript**, with exp
 * 🏢 Tailored for real-world enterprise requirements and operational flows
 * 📊 Centralized sales monitoring and data categorization
 * 🧩 Scalable architecture designed for business data expansion
-* 🔗 **Live URL:** [avuei.com](https://avuei.com)
+* 🔗 **Live URL:** [avuei.com](https://avuei.com) @avuei.app
 * `Web Platform` · `Business Logic` · `Operations Management`
 
 ---
